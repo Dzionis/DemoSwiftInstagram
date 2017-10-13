@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - SwiftInstagram (1.0.4):
+    - SwiftInstagram/Core (= 1.0.4)
+  - SwiftInstagram/Core (1.0.4)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - SwiftInstagram (from `https://github.com/AnderGoig/SwiftInstagram.git`, commit `a380ec7`, branch `develop`)
+
+EXTERNAL SOURCES:
+  SwiftInstagram:
+    :branch: develop
+    :commit: a380ec7
+    :git: https://github.com/AnderGoig/SwiftInstagram.git
+
+CHECKOUT OPTIONS:
+  SwiftInstagram:
+    :commit: a380ec79da95cf0b8ab69f8693938a0588de385f
+    :git: https://github.com/AnderGoig/SwiftInstagram.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  SwiftInstagram: fd396bf336c827cea19b5c059f562abb88caf6e3
+
+PODFILE CHECKSUM: b50c38446f22f2d7c1eebcf30cea11cca29163d4
+
+COCOAPODS: 1.3.1
