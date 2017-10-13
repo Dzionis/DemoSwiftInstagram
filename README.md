@@ -1,4 +1,4 @@
-# DemoSwiftInstagram
+# Demo SwiftInstagram
 
 I'm create demo project for [this](https://github.com/AnderGoig/SwiftInstagram) Inastagram API wrapper.
 
