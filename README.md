@@ -1,6 +1,6 @@
 # DemoSwiftInstagram
 
-I'm create demo project for this Inastagram API wrapper.
+I'm create demo project for [this](https://github.com/AnderGoig/SwiftInstagram) Inastagram API wrapper.
 
 
 SwiftInstagram uses client side (implicit) authentication, so you must **uncheck** the option **"Disable implicit OAuth"** from the Security tab of your [Instagram client](https://www.instagr.am/developer/clients/manage/).
